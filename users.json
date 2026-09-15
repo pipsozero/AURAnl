@@ -1,1 +1,8 @@
-
+{
+    "ADMIN": {
+        "password": "ADMIN",
+        "steam_id": "76561199160796257",
+        "banned": false,
+        "expiry_date": null,
+        "role": "premium"
+    }
